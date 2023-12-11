@@ -1,0 +1,20 @@
+div{
+    width: 350px;
+    height: 100px;
+background-color: rgb(49, 49, 49);
+}
+
+.p1{
+    font-weight: bolder;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+.p2{
+    color: rgb(182, 181, 181);
+    padding-left: 10px;
+    
+}

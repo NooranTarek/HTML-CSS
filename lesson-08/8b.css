@@ -1,0 +1,15 @@
+p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+button {
+    display: inline-block;
+    vertical-align: middle;
+    border-color: gray;
+    border-radius: 2px;
+    border-width: 1px;
+    cursor: pointer;
+    width: 40px;
+    height: 20px;
+}

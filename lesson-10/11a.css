@@ -1,0 +1,13 @@
+.grid {
+    display: grid;
+    grid-template-columns: 200px 75px;
+    gap: 10px; 
+}
+
+.column1 {
+    margin-right: -50px;
+    background-color: #bfece9;
+}
+.column2 {
+    background-color: #ffd6d6;
+}

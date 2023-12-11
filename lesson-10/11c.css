@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px 10px;
+}
+
+.column {
+    height: 30px; 
+    background-color: #ffd6d6;
+}
