@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    margin: 1;
+    padding: 1;
+
+}
+.home{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+nav {
+    background-color: #7e2dc0; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    height: 60px;
+}
+
+input {
+    width: 900px;
+    height: 35px;
+    border-radius: 17px;
+    border: none;
+    font-size: 20px;
+    padding-left: 20px;
+    color: #7e2dc0; 
+}
+
+.download {
+    background-color: #7e2dc0; 
+    color: #fff; 
+    padding: 10px 20px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: 20px;
+}

@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+}
+
+.item{
+    height: 30px;
+    background-color: #ffd6d6;}
+
+.item:first-child {
+    width: 50px;
+    background-color: #bfece9;
+
+}
+
+.item:last-child {
+    width: 75px;
+    background-color: #bfece9;
+
+}

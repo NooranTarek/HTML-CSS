@@ -1,0 +1,50 @@
+ body{
+    font-family: Arial;
+ }
+ .parent {
+     position: fixed;
+     left: 0;
+     top: 0;
+     bottom: 0;
+     padding: 12px;
+     background-color: rgb(26, 26, 26);
+  }
+  
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-bottom: 14px;
+  }
+  
+  .child {
+    background-color: rgb(59, 59, 59);
+    position: fixed;
+    left: 70px;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .info {
+    color: white;
+    font-size: 14px;
+  }
+  
+  .plus {
+    color: rgb(150, 150, 150);
+    font-size: 25px;
+  }
+  
+h4 {
+    color: rgb(150, 150, 150);
+    margin-bottom: 16px;
+  }

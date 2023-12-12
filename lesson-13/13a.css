@@ -1,0 +1,14 @@
+body {
+    height: 3000px; 
+}
+
+.stick {
+    background-color: #000000;
+    color: #fff;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 30px;
+    position: fixed;
+    bottom: 25px;
+    right: 18px;
+}

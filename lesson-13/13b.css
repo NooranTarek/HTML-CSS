@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar{
+    width: 150px; /* i know that i have to set width 100 px but it does not match the design in pic */
+    height: 100%;
+    background-color:green;
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    right: 0;   
+  }

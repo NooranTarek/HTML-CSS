@@ -1,0 +1,50 @@
+.info {
+  font-weight: bold;
+  font-family: Arial;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+.divP {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.button1 {
+  background-color: rgb(24, 119, 242);
+  color: white;
+  font-weight: bold;
+  border: none;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  margin-right: 3px;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.button2 {
+  background-color: rgb(230, 230, 230);
+  border: none;
+  font-weight: bold;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: Arial;
+}
