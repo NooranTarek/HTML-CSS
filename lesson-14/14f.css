@@ -1,0 +1,48 @@
+body {
+  height: 3000px;
+}
+
+div {
+  position: relative;
+  display: inline-block;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+#text {
+  position: absolute;
+  top: 10px;
+  right: 0px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  width: 80px;
+  height: 25px;
+  border: none;
+  text-align: center;
+}
+#divC {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#text2 {
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  width: 100px;
+  height: 35px;
+  text-align: center;
+}

@@ -1,0 +1,40 @@
+body {
+  height: 3000px;
+}
+
+input {
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: -12px;
+  left: -20px;
+  font-family: Arial;
+  font-size: 25px;
+  border-radius: 30px;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border: none;
+}
+.div {
+  background-color: gray;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 320px;
+  height: 180px;
+}
+#text {
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 147px;
+  left: 234px;
+  font-family: Arial;
+  font-size: 25px;
+  border-radius: 1px;
+  width: 80px;
+  height: 30px;
+  border: none;
+  text-align: center;
+}
